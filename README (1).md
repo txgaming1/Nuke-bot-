@@ -36,9 +36,9 @@ python nuke-bot.py
 ```
 ## Linux / Windows
 ```console
-git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+git clone https://github.com/txgaming1/Nuke-bot-
 
-cd Discord-Nuke-Bot
+cd Discord-Nuke-bot
 
 python -m pip install -r requirements.txt
 
