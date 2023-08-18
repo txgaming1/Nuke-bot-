@@ -20,7 +20,7 @@ apt update && apt upgrade
 
 pkg install python git
 
-git clone https://github.com/txgaming1/Nuke-bot-
+git clone 
 
 cd Discord-Nuke-Bot
 
